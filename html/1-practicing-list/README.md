@@ -2,7 +2,7 @@
 
 In this exercise, you will build various lists to practice HTML lists.
 
-## Simple shopping list
+## Simple shopping list
 
 Create a custom shopping list with containing at least 10 items, use unordered HTML list.
 
