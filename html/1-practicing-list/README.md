@@ -2,16 +2,18 @@
 
 In this exercise, you will build various lists to practice HTML lists.
 
-## Simple shopping list
+Create a new HTML file and complete the below exercises.
+Each exercise should get a meaningful header that gives context.
+
+## Exercise 1: Simple shopping list
 
 Create a custom shopping list with containing at least 10 items, use unordered HTML list.
 
-Add a meaningful terse header to your lists to give the context.
-(Note: this will required for each of the following exercises too).
+## Exercise 2: Categorised shopping list
 
-## Categorised shopping list
+Create another list but for now group each product into a product category. See an example below.
 
-Create another list but for now group each product into a product category.
+Hint: You don't know how to make a multilevel list? Google for it one of these keywords `nested list HTML`, `embedded list HTLM` or `multilevel list HTML`.
 
 For example:
  - Grain
@@ -33,7 +35,7 @@ For example:
    - Poultry
    - Fish
 
-## TO-DO list
+## Exercise 3: TO-DO list
 
 Create a TO-DO list for your daily tasks using checkbox element, add as many elements as you wish but not less than 5.
 Finally pick some of those tasks and set to be ticked by default indicating that has been already done.
@@ -42,9 +44,9 @@ Hints:
  - The list isn't necessary to be constructed from HTML list.
  - Use `checked` attribute to modify the default value of box.
 
-## Creating an action list
+## Exercise 4: Creating an ordered action list
 
-Put down a list of steps of how to use for example a washing machine :). Add at least 5 elements to your list using HTML ordered list.
+Put down an ordered list of steps of how to use for example a washing machine :). Add at least 5 elements to your list using HTML ordered list.
 
 *For example:*
 
